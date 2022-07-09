@@ -1,0 +1,11 @@
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# Python
+*.egg-info
+.eggs
+__pycache__
+
+# Config
+.vscode
+config.json
