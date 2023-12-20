@@ -1,0 +1,8 @@
+name: bgda
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - notebook
+  - pyogrio
