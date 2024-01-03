@@ -9,13 +9,13 @@ Bangladesh](https://opsis.eci.ox.ac.uk/post/2022-10-19-climate-resilient-banglad
 Clone or download this repository:
 
 ```bash
-git clone
+git clone git@github.com:nismod/bangladesh-adaptation.git
 ```
 
 Or:
 
 ```bash
-git clone
+git clone https://github.com/nismod/bangladesh-adaptation.git
 ```
 
 Create a Python environment:
