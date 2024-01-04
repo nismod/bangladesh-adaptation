@@ -3,6 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - geopandas
-  - notebook
-  - pyogrio
+  - black # code formatting
+  - geopandas # spatial data analysis
+  - nbstripout # avoid committing notebook cell outputs
+  - notebook # jupyter notebook
+  - pandas # data analysis
+  - pyogrio # fast read/write spatial data formats
