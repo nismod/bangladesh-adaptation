@@ -9,3 +9,7 @@ __pycache__
 # Config
 .vscode
 config.json
+
+# Data
+scratch
+SCRATCH
