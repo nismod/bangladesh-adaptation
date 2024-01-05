@@ -1,0 +1,19 @@
+hazard,sector,infrastructure_path,damage_path
+coastal,airports,Bangladesh_GIS_database/infrastructure-layers/airports_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/airports damage.csv
+coastal,cyclone_shelters,Bangladesh_GIS_database/infrastructure-layers/cyclone-shelters_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/cyclone_shelters damage.csv
+coastal,education,Bangladesh_GIS_database/infrastructure-layers/education-combined_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/Education damage.csv
+coastal,gasfields,Bangladesh_GIS_database/infrastructure-layers/gasfields_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/gasfields damage.csv
+coastal,gaslines,Bangladesh_GIS_database/infrastructure-layers/gaslines_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/gaslines damage.csv
+coastal,growth_centres,Bangladesh_GIS_database/infrastructure-layers/growth-centers-adnan_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/growth_centers damage.csv
+coastal,health_facilities,Bangladesh_GIS_database/infrastructure-layers/health-facilities-adnan_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/health_facilities damage.csv
+coastal,inland_water_terminals,Bangladesh_GIS_database/infrastructure-layers/inland-water-terminals_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/inland_water_terminals damage.csv
+coastal,ports,Bangladesh_GIS_database/infrastructure-layers/ports_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/ports damage.csv
+coastal,powerplants,Bangladesh_GIS_database/infrastructure-layers/powerplants_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/powerplants damage.csv
+coastal,railway_network,Bangladesh_GIS_database/infrastructure-layers/railway-network_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/railway damage.csv
+coastal,railway_stations,Bangladesh_GIS_database/infrastructure-layers/railway-stations_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/railway_stations damage.csv
+coastal,roads,Bangladesh_GIS_database/infrastructure-layers/osm-roads-adnan-merged_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/road_coastal_merged damage.csv
+coastal,substations,Bangladesh_GIS_database/infrastructure-layers/substations_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Coastal flood/Feature wise damage/substations damage.csv
+cyclone,ports,Bangladesh_GIS_database/infrastructure-layers/ports_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Cyclone/Feature wise damage/ports damage.csv
+cyclone,powerplants,Bangladesh_GIS_database/infrastructure-layers/powerplants_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Cyclone/Feature wise damage/power_plants damage.csv
+cyclone,substations,Bangladesh_GIS_database/infrastructure-layers/substations_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Cyclone/Feature wise damage/substations damage.csv
+cyclone,transmission_lines,Bangladesh_GIS_database/infrastructure-layers/transmissionlines_splits__hazards.gpkg,Bangladesh GCA-UNOPS data/Data/Output2/Cyclone/Feature wise damage/electricity_grid damage.csv
