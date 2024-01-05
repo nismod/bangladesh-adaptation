@@ -9,3 +9,4 @@ dependencies:
   - notebook # jupyter notebook
   - pandas # data analysis
   - pyogrio # fast read/write spatial data formats
+  - pyarrow # read/write parquet files
