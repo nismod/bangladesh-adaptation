@@ -10,3 +10,6 @@ dependencies:
   - pandas # data analysis
   - pyogrio # fast read/write spatial data formats
   - pyarrow # read/write parquet files
+  - scipy # use integration routine
+  - ipython>=7.8.0 # black[jupyter] requirement
+  - tokenize-rt>=3.2.0 # black[jupyter] requirement
